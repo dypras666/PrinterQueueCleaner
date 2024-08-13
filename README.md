@@ -1,3 +1,4 @@
+![Preview](https://github.com/dypras666/PrinterQueueCleaner/blob/main/preview.png)
 # Pembersih Antrian Printer WINDOWS 7,8,10,11
 
 ## Deskripsi
