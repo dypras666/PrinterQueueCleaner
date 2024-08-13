@@ -33,7 +33,7 @@ Aplikasi berbasis GUI sederhana menggunakan Python dan Tkinter untuk menghapus a
   py main.py
   ```
 
-**Notes **
+**Notes**
 
 Aplikasi ini memerlukan hak akses administrator untuk menjalankan fungsi penghapusan antrian cetak.
 Pastikan Anda menutup semua aplikasi yang sedang menggunakan printer sebelum menjalankan proses penghapusan antrian.
